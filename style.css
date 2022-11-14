@@ -93,6 +93,6 @@ button {
     background: #bf48ad;
    top: 0;
    left: 0;
-    clip-path: circle(600px at right 900px);
+    clip-path: circle(600px at right 800px);
     z-index: -1;
 }
